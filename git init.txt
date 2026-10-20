@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "feat: adicionar projeto USB Guard completo"
+git branch -M main
+git remote add origin https://github.com/vozekia/USB-GUARD.git
+git push -u origin main --force
